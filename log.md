@@ -1,30 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Overall Goal: Create a simple HTML+CSS static website.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Goal 1:** Create a simple Tribute Page. Users will be able to view folklore on Stag Beetles in a simple article format.
+### Day 0: Saturday, April 1st, 2023.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress:** Defined my first goal, wrote the pseudocode, and finished the basic html.
 
-**Link to work:** [Calculator App](http://www.example.com)
+![image](https://user-images.githubusercontent.com/128761003/229301978-109c5325-879d-4c42-a58a-12a931d137d4.png)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+![image](https://user-images.githubusercontent.com/128761003/229302802-2fabffda-3c70-43a0-94d8-252673e62d2d.png)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+![image](https://user-images.githubusercontent.com/128761003/229302822-733755c9-3789-4418-892a-ed70e91b583e.png)
 
 
-### Day 1: June 27, Monday
+**Notes:** Stag beetles are cool, so I wanna start with a tribute page to stag beetles. I decided to reuse an essay I wrote a while back on stag beetle folklore, and reformat it into an article. I was expecting to make more progress in the hour, but I spent a long time fiddling with the format, only to land on a rather basic one. Tomorrow, I would like to add images and additional CSS styling.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Link to the project:** [Tribute/Folklore Page, First Edition](http://www.servetier.me/tribute.html)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link to today's tweet:**
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
