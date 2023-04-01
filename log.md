@@ -16,8 +16,10 @@
 
 **Notes:** Stag beetles are cool, so I wanna start with a tribute page to stag beetles. I decided to reuse an essay I wrote a while back on stag beetle folklore, and reformat it into an article. I was expecting to make more progress in the hour, but I spent a long time fiddling with the format, only to land on a rather basic one. Tomorrow, I would like to add images and additional CSS styling.
 
-**Link to the project:** [Tribute/Folklore Page, First Edition](http://www.servetier.me/tribute.html)
+**Link to today's work in action:** [Tribute/Folklore Page, First Edition]((https://servetier.me/tests/tribute/tribute0)
 
-**Link to today's tweet:**
+**Link to today's code:** [Code, Day 0](https://github.com/servetier/100-days-of-code/blob/master/tribute/tribute0.html)
+
+**Link to today's tweet:** https://twitter.com/amaerocaelum/status/1642210151204634624
 
 
